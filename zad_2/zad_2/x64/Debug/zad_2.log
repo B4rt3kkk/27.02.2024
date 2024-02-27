@@ -1,0 +1,9 @@
+﻿  zad_2.cpp
+C:\Users\Programista\Desktop\Bartek Janik\27.02.2024\zad_2\zad_2\zad_2.cpp(54,30): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Programista\Desktop\Bartek Janik\27.02.2024\zad_2\zad_2\zad_2.cpp(54,35): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Programista\Desktop\Bartek Janik\27.02.2024\zad_2\zad_2\zad_2.cpp(55,20): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Programista\Desktop\Bartek Janik\27.02.2024\zad_2\zad_2\zad_2.cpp(55,29): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Programista\Desktop\Bartek Janik\27.02.2024\zad_2\zad_2\zad_2.cpp(55,38): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Programista\Desktop\Bartek Janik\27.02.2024\zad_2\zad_2\zad_2.cpp(56,22): warning C4838: konwersja z „double” do „int” wymaga konwersji zawężającej
+C:\Users\Programista\Desktop\Bartek Janik\27.02.2024\zad_2\zad_2\zad_2.cpp(56,22): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  zad_2.vcxproj -> C:\Users\Programista\Desktop\Bartek Janik\27.02.2024\zad_2\x64\Debug\zad_2.exe

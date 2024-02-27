@@ -1,0 +1,4 @@
+﻿  zad_3.cpp
+C:\Users\Programista\Desktop\Bartek Janik\27.02.2024\zad_3\zad_3\zad_3.cpp(9,20): warning C4305: "inicjowanie": obcięcie z "double" do "const float"
+C:\Users\Programista\Desktop\Bartek Janik\27.02.2024\zad_3\zad_3\zad_3.cpp(54,12): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+  zad_3.vcxproj -> C:\Users\Programista\Desktop\Bartek Janik\27.02.2024\zad_3\x64\Debug\zad_3.exe
